@@ -1,0 +1,38 @@
+{
+    "model_name": "model_20260901_113645",
+    "timestamp": "20260901_113645",
+    "metrics": {
+        "accuracy": 0.646236559139785,
+        "precision": 0.6519699812382739,
+        "recall": 0.5301296720061022,
+        "f1_score": 0.5847707193941943,
+        "dataset_source": "dataset_patterns_scalping_20260901_113623.csv",
+        "features_used": [
+            "source_type_encoded",
+            "pattern_encoded",
+            "regime_type_encoded",
+            "adx_value",
+            "rsi_14",
+            "volume_ratio",
+            "atr_value",
+            "distance_to_zone_pct",
+            "hour_of_day",
+            "day_of_week",
+            "trend_alignment_encoded"
+        ]
+    },
+    "features_used": [
+        "source_type_encoded",
+        "pattern_encoded",
+        "regime_type_encoded",
+        "adx_value",
+        "rsi_14",
+        "volume_ratio",
+        "atr_value",
+        "distance_to_zone_pct",
+        "hour_of_day",
+        "day_of_week",
+        "trend_alignment_encoded"
+    ],
+    "framework": "LightGBM"
+}

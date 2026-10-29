@@ -1,0 +1,11 @@
+{
+    "model_name": "model_20260720_150525",
+    "timestamp": "20260720_150525",
+    "metrics": {
+        "train_accuracy": 0.6252268283831087,
+        "test_accuracy": 0.6210723483961601,
+        "n_samples": 106772
+    },
+    "features_used": [],
+    "framework": "LightGBM"
+}

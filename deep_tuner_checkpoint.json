@@ -1,0 +1,57 @@
+{
+  "started_at": "2026-07-16T04:31:46.984277+00:00",
+  "total_days": 1095,
+  "completed_symbols": {
+    "XAUUSD": {
+      "atr_period": 14,
+      "atr_multiplier": 1.6,
+      "tp_atr_multiplier": 1.6,
+      "internal_structure_len": 5,
+      "st_factor": 3.5,
+      "ema_fast_len": 7,
+      "pa_length": 12,
+      "win_rate": 51.59,
+      "win_rate_std": 4.89,
+      "profit_factor": 1.12,
+      "stability": 0.905,
+      "n_windows": 22,
+      "total_trades": 2746,
+      "optimized_at": "2026-07-16T07:16:40.927563+00:00",
+      "is_fallback": false
+    },
+    "EURUSD": {
+      "atr_period": 14,
+      "atr_multiplier": 1.4,
+      "tp_atr_multiplier": 2.0,
+      "internal_structure_len": 4,
+      "st_factor": 2.0,
+      "ema_fast_len": 9,
+      "pa_length": 10,
+      "win_rate": 39.08,
+      "win_rate_std": 6.43,
+      "profit_factor": 0.97,
+      "stability": 0.835,
+      "n_windows": 22,
+      "total_trades": 1954,
+      "optimized_at": "2026-07-16T10:24:52.503849+00:00",
+      "is_fallback": false
+    },
+    "GBPUSD": {
+      "atr_period": 14,
+      "atr_multiplier": 1.6,
+      "tp_atr_multiplier": 1.6,
+      "internal_structure_len": 8,
+      "st_factor": 2.8,
+      "ema_fast_len": 12,
+      "pa_length": 14,
+      "win_rate": 47.54,
+      "win_rate_std": 4.16,
+      "profit_factor": 1.0,
+      "stability": 0.913,
+      "n_windows": 22,
+      "total_trades": 1573,
+      "optimized_at": "2026-07-16T13:42:04.917785+00:00",
+      "is_fallback": false
+    }
+  }
+}

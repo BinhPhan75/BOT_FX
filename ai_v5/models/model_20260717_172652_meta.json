@@ -1,0 +1,30 @@
+{
+    "model_name": "model_20260717_172652",
+    "timestamp": "20260717_172652",
+    "metrics": {
+        "accuracy": 0.5652173913043478,
+        "precision": 0.5454545454545454,
+        "recall": 1.0,
+        "f1_score": 0.7058823529411765,
+        "dataset_source": "dataset_20260717_154835.csv",
+        "features_used": [
+            "rsi_14",
+            "volume_ratio",
+            "atr_value",
+            "distance_to_zone_pct",
+            "pattern_encoded",
+            "hour_of_day",
+            "day_of_week"
+        ]
+    },
+    "features_used": [
+        "rsi_14",
+        "volume_ratio",
+        "atr_value",
+        "distance_to_zone_pct",
+        "pattern_encoded",
+        "hour_of_day",
+        "day_of_week"
+    ],
+    "framework": "LightGBM"
+}
